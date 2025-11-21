@@ -2,20 +2,20 @@
   "name": "THE LIST",
   "short_name": "THE LIST",
   "description": "Your work to-do list",
-  "start_url": "./",
-  "scope": "./",
+  "start_url": "https://devsansystems.github.io/thelist/",
+  "scope": "https://devsansystems.github.io/thelist/",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
   "orientation": "any",
   "icons": [
     {
-      "src": "./icon-192.png",
+      "src": "https://devsansystems.github.io/thelist/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "./icon-512.png",
+      "src": "https://devsansystems.github.io/thelist/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
