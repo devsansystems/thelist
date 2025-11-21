@@ -1,11 +1,12 @@
 {
-  "name": "My Document",
-  "short_name": "Doc",
-  "description": "Quick access to my Google Document",
-  "start_url": "/",
+  "name": "THE LIST",
+  "short_name": "THE LIST",
+  "description": "Your work to-do list",
+  "start_url": "/thelist/",
+  "scope": "/thelist/",
   "display": "standalone",
-  "background_color": "#4285f4",
-  "theme_color": "#4285f4",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
   "orientation": "any",
   "icons": [
     {
